@@ -7,7 +7,7 @@ I'm a Full Stack Web Developer
 | 💻 Passionate about building scalable and responsive web applications. Experienced in both front-end and back-end technologies, I specialize in creating seamless user experiences. 🌐 Let's innovate and bring ideas to life! #CodeCraftsman#FullStack #WebDevelopment #Programming #Coding #WebDesign
 
 * 🌍  I'm based in Errachidia, Morocco
-* 🖥️  See my portfolio at [My website](http://khalidzennouhi.com)
+* 🖥️  See my portfolio at [My website](https://www.khalidzennouhi.me/)
 * ✉️  You can contact me at [khalidzennouhi08@gmail.com](mailto:khalidzennouhi08@gmail.com)
 * 🤝  I'm open to collaborating on any projects
 
